@@ -1,4 +1,14 @@
-<h2 align="left">Hey! My name is Manpreet Singh, and I'm a Computer Information student from India, studying at the University of the Fraser Valley</h2>
+<h2 align="left">Hey! My name is Manpreet Singh</h2>
+
+###
+
+<div align="center">
+  <img height="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFubWNjaThxd3htZTJpencydTZjN2JvdzlmZTBqazU5aGVhOHJqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"  />
+</div>
+
+###
+
+<p align="left">I am a full-stack developer studying Computer Information Systems at the University of the Fraser Valley</p>
 
 ###
 
@@ -10,14 +20,12 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFubWNjaThxd3htZTJpencydTZjN2JvdzlmZTBqazU5aGVhOHJqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"  />
+  <img src="https://profile-counter.glitch.me/Manpreet-Singh-2004/count.svg?"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Manpreet-Singh-2004/count.svg?"  />
-</div>
+<p align="left">My tech stack 👾</p>
 
 ###
 
